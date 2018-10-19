@@ -1,2 +1,2 @@
-# FluentPython
-FluentPython Learning
+# AdvancedPython
+AdvancedPython GoGoGO!
