@@ -17,3 +17,6 @@ print(beijing)          # City(name='beijing', country='China')
 
 print(beijing.name)     # beijing
 print(beijing.country)  # China
+
+print(beijing[0])       # beijing
+print(beijing[1])       # China
