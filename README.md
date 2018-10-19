@@ -1,2 +1,2 @@
-# AdvancedPython
-AdvancedPython GoGoGO!
+# FluentPython
+FluentPython GoGoGO!
