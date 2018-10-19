@@ -1,2 +1,2 @@
 # FluentPython
-FluentPython GoGoGO!
+FluentPython GoGoGo!
